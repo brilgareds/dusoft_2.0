@@ -1,12 +1,17 @@
 import {Request, Response} from 'express';
-import knex from '../../../config/db_connection';
+import LoginHelper from './login.helpers';
 
-export default (req:Request, res:Response)=>{
-    console.log('Test 1');
-
+export default (req:Request, res:Response) => {
     Promise.resolve().then(() => {
-        const query = knex('inventarios_productos').select("*").limit(1);
-        return query;
+
+        const obj = {
+            userName : 'mauricio.barrios',
+            password : '123456'
+        };
+
+        const data = new LoginHelper().getPasswordHash(obj);
+
+        return data;
     }).then(response => {
         console.log('response: ', response);
         res.json({
