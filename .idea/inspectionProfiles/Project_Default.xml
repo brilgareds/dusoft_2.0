@@ -1,0 +1,54 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="BladeControlDirectives" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="CheckNodeTest" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="DuplicateAlternationBranch" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="DuplicateKeyInSection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="DuplicateSectionInFile" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="EmptyEventHandler" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="EscapedMetaCharacter" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="FileHeaderInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="HamlNestedTagContent" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="HardwiredNamespacePrefix" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="ImplicitTypeConversion" enabled="true" level="INFORMATION" enabled_by_default="true">
+      <option name="BITS" value="1720" />
+      <option name="FLAG_EXPLICIT_CONVERSION" value="true" />
+      <option name="IGNORE_NODESET_TO_BOOLEAN_VIA_STRING" value="true" />
+    </inspection_tool>
+    <inspection_tool class="IndexZeroUsage" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="LossyEncoding" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="MissingSinceTagDocInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="MysqlParsingInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="OctalEscape" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="PhingDomInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="RedundantTypeConversion" enabled="true" level="INFORMATION" enabled_by_default="true">
+      <option name="CHECK_ANY" value="false" />
+    </inspection_tool>
+    <inspection_tool class="RepeatedSpace" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SingleCharAlternation" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlAddNotNullColumnInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlAmbiguousColumnInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlAutoIncrementDuplicateInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlCheckUsingColumnsInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlConstantConditionInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlDeprecateTypeInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlDerivedTableAliasInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlDialectInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlDropIndexedColumnInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlIdentifierInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlInsertValuesInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlNullComparisonInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlPostgresqlSelectFromProcedureInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlResolveInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlShouldBeInGroupByInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlSignatureInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlStorageInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlTypeInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlUnusedVariableInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="TaskProblemsInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="UnresolvedReference" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="UnusedDefine" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  </profile>
+</component>
